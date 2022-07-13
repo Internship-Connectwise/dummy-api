@@ -1,0 +1,13 @@
+###
+confusion in error handling
+    wheather to send error throug json method or to send data through try catch
+    (Refer to controller/organisation.js file for more details)
+##
+how to Wheather the Organisation exits
+(Refer to middleware/department.js file for more details)
+
+##
+fetch previous ids and assign new ids in create operation of organization,department and employe
+
+##
+check wheather id exists before creating a new record for employee, department and organization
