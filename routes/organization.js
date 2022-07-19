@@ -1,22 +1,15 @@
 const express = require('express')
 const router = express.Router()
 
-//Organizaion controller to handle the request calls
+//Organizaion controller handleA the Functionality of request calls
 const orgCntr = require('../controllers/organization.js')
+const validate = require('../middleware/organization.js')
 
-//fetch all organization
-router.get('/',orgCntr.getListOfOrg)
-
-//fetch all specific organisation
-router.get('/:id',orgCntr.specificOrg)
-
-//Create
-router.post('/',orgCntr.createOrg)
-
-//Update
-router.patch('/:id',orgCntr.updateOrg)
-
-//Delete
-router.delete('/:id',orgCntr.deleteOrg)
+router
+    .get('/',orgCntr.getListOfOrg)
+    .get('/:id',orgCntr.specificOrg)
+    .post('/',validate,orgCntr.createOrg)
+    .patch('/:id',validate,orgCntr.updateOrg)
+    .delete('/:id',orgCntr.deleteOrg)
 
 module.exports = router

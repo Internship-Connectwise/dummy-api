@@ -7,7 +7,30 @@ how to Wheather the Organisation exits
 (Refer to middleware/department.js file for more details)
 
 ##
-fetch previous ids and assign new ids in create operation of organization,department and employe
+fetch previous ids and assign new ids in create operation of organization,department and employee
 
 ##
 check wheather id exists before creating a new record for employee, department and organization
+
+#
+remove hardcoded db details
+#
+erro shouldn't be very much verbose
+#
+create api -> id should be application spcific
+
+#
+update
+detail shouldn't be updated based on id
+
+#
+don't abruptly update ids
+
+#
+primary keys should be updated
+
+#
+maintain structuting focus on readability,complexity,scalability and maintainance.
+
+
+hard code data change uri of mongo to variable from config

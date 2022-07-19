@@ -1,0 +1,802 @@
+[
+  {
+    "org_id": "322912cb-7e52-46de-9877-5f2206aa574c",
+    "org_name": "New horizon LLP",
+    "headquater": "Kolkata",
+    "established_year": "2013",
+    "ceo": "Ruchita",
+    "added_in": "1658142696890"
+  },
+  {
+    "org_id": "1a53e5e7-a766-4bcf-bf9b-b3fd8c24d5ba",
+    "org_name": "Soni Enterprises",
+    "headquater": "Banglore",
+    "established_year": "2012",
+    "ceo": "Rohan",
+    "added_in": "1658142696908"
+  },
+  {
+    "org_id": "ccf90be9-58c6-44b2-af21-165b859ea36d",
+    "org_name": "New horizon LLP",
+    "headquater": "Kolkata",
+    "established_year": "2011",
+    "ceo": "Varun",
+    "added_in": "1658142696924"
+  },
+  {
+    "org_id": "f928aa3f-7998-40b3-bf10-3c61db29f4f6",
+    "org_name": "MAQ Ltd.",
+    "headquater": "London",
+    "established_year": "2019",
+    "ceo": "Varun",
+    "added_in": "1658142696942"
+  },
+  {
+    "org_id": "f9cb7236-7fe1-4bb2-8596-bfbb51822ce3",
+    "org_name": "Anand Technologies",
+    "headquater": "Chenai",
+    "established_year": "2012",
+    "ceo": "Ruchita",
+    "added_in": "1658142696955"
+  },
+  {
+    "org_id": "faad8114-e510-4fa9-81b5-edcf31059f86",
+    "org_name": "Disha Techincal",
+    "headquater": "London",
+    "established_year": "2011",
+    "ceo": "Rohan",
+    "added_in": "1658142696967"
+  },
+  {
+    "org_id": "7efeeec9-a2e9-44d6-b74f-7a6f25955e73",
+    "org_name": "Anand Technologies",
+    "headquater": "Kolkata",
+    "established_year": "1987",
+    "ceo": "Dhiraj",
+    "added_in": "1658142696982"
+  },
+  {
+    "org_id": "87afb071-03e2-42b4-9fac-d2b237fae1b9",
+    "org_name": "Google Inc",
+    "headquater": "Malasia",
+    "established_year": "2018",
+    "ceo": "Raj",
+    "added_in": "1658142696997"
+  },
+  {
+    "org_id": "c4a2eb34-97e7-4579-bc86-9c3d64f130c0",
+    "org_name": "Anand Technologies",
+    "headquater": "Iran",
+    "established_year": "2019",
+    "ceo": "Ruchita",
+    "added_in": "1658142697008"
+  },
+  {
+    "org_id": "6b8f4d27-b25a-4b5e-9e7e-6ea85fd310a1",
+    "org_name": "Infosys",
+    "headquater": "Delhi",
+    "established_year": "2016",
+    "ceo": "Zarana",
+    "added_in": "1658142697022"
+  },
+  {
+    "org_id": "0fbf84da-1c91-45c1-bab6-99fa46fe78f7",
+    "org_name": "Anand Technologies",
+    "headquater": "Mumbai",
+    "established_year": "2015",
+    "ceo": "Varun",
+    "added_in": "1658142697036"
+  },
+  {
+    "org_id": "4d12a754-d7ac-419f-8503-1262a2462914",
+    "org_name": "MAQ Ltd.",
+    "headquater": "Chenai",
+    "established_year": "1992",
+    "ceo": "Ryan",
+    "added_in": "1658142697050"
+  },
+  {
+    "org_id": "cd348fda-b627-4e15-a024-22ac4b27f810",
+    "org_name": "Anand Technologies",
+    "headquater": "Hong-kong",
+    "established_year": "1999",
+    "ceo": "Ryan",
+    "added_in": "1658142697065"
+  },
+  {
+    "org_id": "152b0959-6c8a-4ac2-bcde-87950cc21d91",
+    "org_name": "Anand Technologies",
+    "headquater": "Kolkata",
+    "established_year": "2016",
+    "ceo": "Varun",
+    "added_in": "1658142697076"
+  },
+  {
+    "org_id": "5e304d01-9dcb-4ef1-9886-4527f83185ce",
+    "org_name": "MAQ Ltd.",
+    "headquater": "London",
+    "established_year": "1992",
+    "ceo": "Rahul",
+    "added_in": "1658142697089"
+  },
+  {
+    "org_id": "c8d5aabd-d32b-491e-9eb2-e3c5d3b1c26c",
+    "org_name": "Google Inc",
+    "headquater": "Kolkata",
+    "established_year": "1999",
+    "ceo": "Varun",
+    "added_in": "1658142697103"
+  },
+  {
+    "org_id": "2010da26-758c-4c3c-9aa4-d1ca9767e53f",
+    "org_name": "MAQ Ltd.",
+    "headquater": "Kolkata",
+    "established_year": "1987",
+    "ceo": "Abhishek",
+    "added_in": "1658142697115"
+  },
+  {
+    "org_id": "14eef71f-7073-472e-baa1-c35acb33ffe5",
+    "org_name": "TCS",
+    "headquater": "Chenai",
+    "established_year": "2016",
+    "ceo": "Rahul",
+    "added_in": "1658142697135"
+  },
+  {
+    "org_id": "5a8be209-25ee-45b8-adbe-ecb8355207bb",
+    "org_name": "Infosys",
+    "headquater": "Hong-kong",
+    "established_year": "2016",
+    "ceo": "Dhiraj",
+    "added_in": "1658142697146"
+  },
+  {
+    "org_id": "ebeb9db1-23bc-46ac-98b7-8feeb7a502bc",
+    "org_name": "TCS",
+    "headquater": "Malasia",
+    "established_year": "2019",
+    "ceo": "Zarana",
+    "added_in": "1658142697159"
+  },
+  {
+    "org_id": "e391657d-a528-427d-8eb2-6c96bf19a731",
+    "org_name": "Anand Technologies",
+    "headquater": "London",
+    "established_year": "2013",
+    "ceo": "Abhishek",
+    "added_in": "1658142697170"
+  },
+  {
+    "org_id": "82b908b9-c4a9-4298-b22e-3b243bc139e2",
+    "org_name": "TCS",
+    "headquater": "Hong-kong",
+    "established_year": "2012",
+    "ceo": "Varun",
+    "added_in": "1658142697182"
+  },
+  {
+    "org_id": "021e4323-927d-4a2c-91e4-0f22f439e096",
+    "org_name": "MAQ Ltd.",
+    "headquater": "Mumbai",
+    "established_year": "2013",
+    "ceo": "Rahul",
+    "added_in": "1658142697194"
+  },
+  {
+    "org_id": "f57490e4-981c-4ca5-b724-fb50c5bdd964",
+    "org_name": "Supreme Consultant",
+    "headquater": "Iran",
+    "established_year": "2012",
+    "ceo": "Ruchita",
+    "added_in": "1658142697208"
+  },
+  {
+    "org_id": "0479a301-e1d9-4e68-92c1-06903b8df77c",
+    "org_name": "Supreme Consultant",
+    "headquater": "Chenai",
+    "established_year": "2011",
+    "ceo": "Anshul",
+    "added_in": "1658142697221"
+  },
+  {
+    "org_id": "3483f350-4ccd-46f2-96c4-ee6ff1e8f755",
+    "org_name": "Anand Technologies",
+    "headquater": "Malasia",
+    "established_year": "2019",
+    "ceo": "Rahul",
+    "added_in": "1658142697234"
+  },
+  {
+    "org_id": "9b35ce62-bdc3-41d0-ba73-0d5c8dedf9ef",
+    "org_name": "Connectwise LLP",
+    "headquater": "London",
+    "established_year": "2019",
+    "ceo": "Varun",
+    "added_in": "1658142697247"
+  },
+  {
+    "org_id": "08c315c6-e842-42f7-be23-7dd1b5f5288c",
+    "org_name": "Google Inc",
+    "headquater": "Delhi",
+    "established_year": "1999",
+    "ceo": "Zarana",
+    "added_in": "1658142697259"
+  },
+  {
+    "org_id": "e06db121-491f-41fb-a32f-c36e6209d8f4",
+    "org_name": "Connectwise LLP",
+    "headquater": "Kolkata",
+    "established_year": "2012",
+    "ceo": "Rahul",
+    "added_in": "1658142697271"
+  },
+  {
+    "org_id": "a9e8d5df-07ae-4bf3-bb39-96be73b7f0db",
+    "org_name": "Google Inc",
+    "headquater": "Iran",
+    "established_year": "2015",
+    "ceo": "Rahul",
+    "added_in": "1658142697283"
+  },
+  {
+    "org_id": "ab82fcd5-f694-40af-9729-ddb75c5826e2",
+    "org_name": "New horizon LLP",
+    "headquater": "Chenai",
+    "established_year": "2013",
+    "ceo": "Rohan",
+    "added_in": "1658142697295"
+  },
+  {
+    "org_id": "5a3a90d6-1a10-4486-adb5-96fe5789b191",
+    "org_name": "Disha Techincal",
+    "headquater": "Banglore",
+    "established_year": "2015",
+    "ceo": "Rahul",
+    "added_in": "1658142697307"
+  },
+  {
+    "org_id": "a03841e3-d430-48b8-ac1c-8b3f0af48ff4",
+    "org_name": "Disha Techincal",
+    "headquater": "Chenai",
+    "established_year": "2012",
+    "ceo": "Ryan",
+    "added_in": "1658142697320"
+  },
+  {
+    "org_id": "685e85d9-a748-45d5-8011-44607bb08397",
+    "org_name": "Soni Enterprises",
+    "headquater": "Malasia",
+    "established_year": "1999",
+    "ceo": "Raj",
+    "added_in": "1658142697332"
+  },
+  {
+    "org_id": "bb6f86b6-1f1b-49be-98cb-4dc31f730752",
+    "org_name": "Soni Enterprises",
+    "headquater": "Iran",
+    "established_year": "2012",
+    "ceo": "Abhishek",
+    "added_in": "1658142697344"
+  },
+  {
+    "org_id": "7c1782a8-16ab-4067-9270-7701ae15c80d",
+    "org_name": "TCS",
+    "headquater": "Japan",
+    "established_year": "2013",
+    "ceo": "Varun",
+    "added_in": "1658142697356"
+  },
+  {
+    "org_id": "f4de97f7-6f42-45f9-b0fa-bf959348ddc3",
+    "org_name": "Anand Technologies",
+    "headquater": "London",
+    "established_year": "1987",
+    "ceo": "Zarana",
+    "added_in": "1658142697368"
+  },
+  {
+    "org_id": "41448a81-4995-4be8-961e-8b5ab9f3daf9",
+    "org_name": "Anand Technologies",
+    "headquater": "London",
+    "established_year": "1987",
+    "ceo": "Rohan",
+    "added_in": "1658142697380"
+  },
+  {
+    "org_id": "99be5369-df2d-45dd-8f11-42378c447521",
+    "org_name": "Connectwise LLP",
+    "headquater": "Japan",
+    "established_year": "2016",
+    "ceo": "Ryan",
+    "added_in": "1658142697392"
+  },
+  {
+    "org_id": "b623bfd0-7f0a-4c8c-8441-0feec5edd02b",
+    "org_name": "Google Inc",
+    "headquater": "Mumbai",
+    "established_year": "2019",
+    "ceo": "Ryan",
+    "added_in": "1658142697404"
+  },
+  {
+    "org_id": "2caac795-285b-4529-827f-1dce942aa7b2",
+    "org_name": "Infosys",
+    "headquater": "Mumbai",
+    "established_year": "2016",
+    "ceo": "Ruchita",
+    "added_in": "1658142697416"
+  },
+  {
+    "org_id": "77d06e2a-e23f-4f9b-8124-0cf378eb9f47",
+    "org_name": "New horizon LLP",
+    "headquater": "Chenai",
+    "established_year": "1999",
+    "ceo": "Zarana",
+    "added_in": "1658142697428"
+  },
+  {
+    "org_id": "0c5aff0a-1431-46c4-a3ec-ee280f684a03",
+    "org_name": "Soni Enterprises",
+    "headquater": "Banglore",
+    "established_year": "1999",
+    "ceo": "Anshul",
+    "added_in": "1658142697440"
+  },
+  {
+    "org_id": "24720228-1ef2-4773-894a-3d4f2dca2f24",
+    "org_name": "Connectwise LLP",
+    "headquater": "Hong-kong",
+    "established_year": "2019",
+    "ceo": "Dhiraj",
+    "added_in": "1658142697453"
+  },
+  {
+    "org_id": "246c0437-2806-483d-aa3e-9d9759566ab5",
+    "org_name": "TCS",
+    "headquater": "Mumbai",
+    "established_year": "1992",
+    "ceo": "Raj",
+    "added_in": "1658142697465"
+  },
+  {
+    "org_id": "31304c81-df76-4386-943e-27323b49fc9d",
+    "org_name": "Google Inc",
+    "headquater": "Mumbai",
+    "established_year": "2013",
+    "ceo": "Zarana",
+    "added_in": "1658142697478"
+  },
+  {
+    "org_id": "5e560163-be35-4754-8ca2-a92b2dc350eb",
+    "org_name": "Anand Technologies",
+    "headquater": "Delhi",
+    "established_year": "2013",
+    "ceo": "Raj",
+    "added_in": "1658142697489"
+  },
+  {
+    "org_id": "346cee0b-cc03-492c-969e-cc3ffa51bcc8",
+    "org_name": "Supreme Consultant",
+    "headquater": "Mumbai",
+    "established_year": "1992",
+    "ceo": "Ryan",
+    "added_in": "1658142697501"
+  },
+  {
+    "org_id": "3f932672-758c-44da-ab85-2ecd38153407",
+    "org_name": "MAQ Ltd.",
+    "headquater": "Hong-kong",
+    "established_year": "2012",
+    "ceo": "Abhishek",
+    "added_in": "1658142697514"
+  },
+  {
+    "org_id": "1dfd105b-96d9-44e3-81ed-d992dd6c50fe",
+    "org_name": "Disha Techincal",
+    "headquater": "Malasia",
+    "established_year": "2013",
+    "ceo": "Varun",
+    "added_in": "1658142697525"
+  },
+  {
+    "org_id": "d57fca46-feab-41b8-a3c2-b6620db712fd",
+    "org_name": "Soni Enterprises",
+    "headquater": "Japan",
+    "established_year": "2015",
+    "ceo": "Rahul",
+    "added_in": "1658142697537"
+  },
+  {
+    "org_id": "582d22c8-3aef-449e-be65-b22109525c66",
+    "org_name": "New horizon LLP",
+    "headquater": "Chenai",
+    "established_year": "2012",
+    "ceo": "Rahul",
+    "added_in": "1658142697549"
+  },
+  {
+    "org_id": "0d1849cf-32ec-461e-a74b-19fbc011fa29",
+    "org_name": "MAQ Ltd.",
+    "headquater": "Banglore",
+    "established_year": "2019",
+    "ceo": "Dhiraj",
+    "added_in": "1658142697561"
+  },
+  {
+    "org_id": "a2666c62-9d57-405a-a8ff-c6bc79bc674f",
+    "org_name": "MAQ Ltd.",
+    "headquater": "Malasia",
+    "established_year": "2018",
+    "ceo": "Ryan",
+    "added_in": "1658142697572"
+  },
+  {
+    "org_id": "8a9b1746-b807-4510-bf01-435457411c0c",
+    "org_name": "Disha Techincal",
+    "headquater": "Iran",
+    "established_year": "2019",
+    "ceo": "Rahul",
+    "added_in": "1658142697584"
+  },
+  {
+    "org_id": "452e97d2-3b23-47f9-b659-8f4808f63250",
+    "org_name": "Google Inc",
+    "headquater": "Hong-kong",
+    "established_year": "2019",
+    "ceo": "Ryan",
+    "added_in": "1658142697596"
+  },
+  {
+    "org_id": "1587866a-851b-451b-ae24-3674e4ea6162",
+    "org_name": "Supreme Consultant",
+    "headquater": "Chenai",
+    "established_year": "2016",
+    "ceo": "Rohan",
+    "added_in": "1658142697608"
+  },
+  {
+    "org_id": "c947a741-54af-4bb2-97f1-1eaf5a7a48f9",
+    "org_name": "Disha Techincal",
+    "headquater": "Iran",
+    "established_year": "2019",
+    "ceo": "Rohan",
+    "added_in": "1658142697619"
+  },
+  {
+    "org_id": "95c47cf8-6bca-4824-80dc-a5483f2924d3",
+    "org_name": "Infosys",
+    "headquater": "Banglore",
+    "established_year": "1992",
+    "ceo": "Ryan",
+    "added_in": "1658142697631"
+  },
+  {
+    "org_id": "2b3a2604-234a-476c-9e2c-2c3f0d203edf",
+    "org_name": "New horizon LLP",
+    "headquater": "Banglore",
+    "established_year": "2012",
+    "ceo": "Dhiraj",
+    "added_in": "1658142697642"
+  },
+  {
+    "org_id": "2e74e6e6-5053-485d-b809-8359cf2e9fa0",
+    "org_name": "Anand Technologies",
+    "headquater": "Banglore",
+    "established_year": "2015",
+    "ceo": "Ruchita",
+    "added_in": "1658142697653"
+  },
+  {
+    "org_id": "39c9bb73-9113-4adb-b8e1-b43359a23e17",
+    "org_name": "Anand Technologies",
+    "headquater": "Japan",
+    "established_year": "1987",
+    "ceo": "Rahul",
+    "added_in": "1658142697665"
+  },
+  {
+    "org_id": "568ef003-da3c-46f7-8d8d-ad1b50c6537c",
+    "org_name": "TCS",
+    "headquater": "Chenai",
+    "established_year": "2013",
+    "ceo": "Zarana",
+    "added_in": "1658142697676"
+  },
+  {
+    "org_id": "d545e9ac-1924-448c-b2ea-260809ca6d8e",
+    "org_name": "Anand Technologies",
+    "headquater": "Hong-kong",
+    "established_year": "1987",
+    "ceo": "Zarana",
+    "added_in": "1658142697688"
+  },
+  {
+    "org_id": "47ad19b7-ee3b-42e5-9208-7c537a45b88c",
+    "org_name": "Infosys",
+    "headquater": "Banglore",
+    "established_year": "2012",
+    "ceo": "Ryan",
+    "added_in": "1658142697702"
+  },
+  {
+    "org_id": "242441b6-d9cf-4d16-95f9-14d1fee3a03b",
+    "org_name": "Infosys",
+    "headquater": "Chenai",
+    "established_year": "2019",
+    "ceo": "Zarana",
+    "added_in": "1658142697713"
+  },
+  {
+    "org_id": "c4da27de-a76a-4c75-8cbe-8845e866005a",
+    "org_name": "Infosys",
+    "headquater": "Japan",
+    "established_year": "2018",
+    "ceo": "Raj",
+    "added_in": "1658142697725"
+  },
+  {
+    "org_id": "58a1f3b6-7f03-4e92-887e-73db827fdfe5",
+    "org_name": "Google Inc",
+    "headquater": "Japan",
+    "established_year": "1987",
+    "ceo": "Anshul",
+    "added_in": "1658142697736"
+  },
+  {
+    "org_id": "672e606a-31ba-4b38-94fa-17c7465a6ada",
+    "org_name": "Soni Enterprises",
+    "headquater": "Mumbai",
+    "established_year": "2012",
+    "ceo": "Raj",
+    "added_in": "1658142697748"
+  },
+  {
+    "org_id": "6ffad489-8e58-4c68-9ca6-e73ab3a4aa5a",
+    "org_name": "Connectwise LLP",
+    "headquater": "London",
+    "established_year": "2019",
+    "ceo": "Ryan",
+    "added_in": "1658142697760"
+  },
+  {
+    "org_id": "c21ea401-4c18-465c-8e22-519311a6ce80",
+    "org_name": "Supreme Consultant",
+    "headquater": "Japan",
+    "established_year": "1987",
+    "ceo": "Rohan",
+    "added_in": "1658142697772"
+  },
+  {
+    "org_id": "4a37ee1e-31d3-4746-8e5d-67c732d86f27",
+    "org_name": "MAQ Ltd.",
+    "headquater": "Malasia",
+    "established_year": "2013",
+    "ceo": "Ryan",
+    "added_in": "1658142697783"
+  },
+  {
+    "org_id": "75d61722-04a6-4e2c-8787-6fbaedfd7c40",
+    "org_name": "Disha Techincal",
+    "headquater": "Hong-kong",
+    "established_year": "2018",
+    "ceo": "Ryan",
+    "added_in": "1658142697795"
+  },
+  {
+    "org_id": "0801755e-bd69-4668-b5fd-0c401984d9be",
+    "org_name": "Supreme Consultant",
+    "headquater": "Japan",
+    "established_year": "2011",
+    "ceo": "Zarana",
+    "added_in": "1658142697807"
+  },
+  {
+    "org_id": "be850eb7-7574-48f8-a64d-8cb3ee74bba3",
+    "org_name": "New horizon LLP",
+    "headquater": "Kolkata",
+    "established_year": "1987",
+    "ceo": "Ryan",
+    "added_in": "1658142697818"
+  },
+  {
+    "org_id": "03bd96df-0b90-4f5b-80ca-b478b484b77c",
+    "org_name": "New horizon LLP",
+    "headquater": "Kolkata",
+    "established_year": "2011",
+    "ceo": "Anshul",
+    "added_in": "1658142697830"
+  },
+  {
+    "org_id": "a4fe1c15-dc69-4c1b-babf-ff8b424d2e4a",
+    "org_name": "Connectwise LLP",
+    "headquater": "Malasia",
+    "established_year": "1992",
+    "ceo": "Raj",
+    "added_in": "1658142697841"
+  },
+  {
+    "org_id": "5655e014-449a-4723-b6e5-a2157b58d355",
+    "org_name": "Supreme Consultant",
+    "headquater": "Chenai",
+    "established_year": "2011",
+    "ceo": "Rohan",
+    "added_in": "1658142697853"
+  },
+  {
+    "org_id": "f2afc52a-2209-4a5a-a093-b42655a0020b",
+    "org_name": "Anand Technologies",
+    "headquater": "Mumbai",
+    "established_year": "2019",
+    "ceo": "Abhishek",
+    "added_in": "1658142697864"
+  },
+  {
+    "org_id": "979a06ba-438e-4175-a983-56fbb24cbe1b",
+    "org_name": "Disha Techincal",
+    "headquater": "Mumbai",
+    "established_year": "2018",
+    "ceo": "Rahul",
+    "added_in": "1658142697878"
+  },
+  {
+    "org_id": "a31f18b4-bd51-4f7a-8702-3aa55d1fd4ea",
+    "org_name": "Google Inc",
+    "headquater": "Malasia",
+    "established_year": "2019",
+    "ceo": "Zarana",
+    "added_in": "1658142697890"
+  },
+  {
+    "org_id": "7830ccfa-1676-4ec5-8a5e-b634f7fea001",
+    "org_name": "Soni Enterprises",
+    "headquater": "Japan",
+    "established_year": "1999",
+    "ceo": "Abhishek",
+    "added_in": "1658142697901"
+  },
+  {
+    "org_id": "0e96480a-683a-4076-9232-1891cc10b85a",
+    "org_name": "Anand Technologies",
+    "headquater": "Hong-kong",
+    "established_year": "1992",
+    "ceo": "Ruchita",
+    "added_in": "1658142697913"
+  },
+  {
+    "org_id": "2dbe53f4-aa12-48ed-9978-e7562b02a019",
+    "org_name": "Anand Technologies",
+    "headquater": "Chenai",
+    "established_year": "1987",
+    "ceo": "Anshul",
+    "added_in": "1658142697924"
+  },
+  {
+    "org_id": "0093727b-6bc1-4786-a389-c4ccd86cccf6",
+    "org_name": "MAQ Ltd.",
+    "headquater": "London",
+    "established_year": "1987",
+    "ceo": "Varun",
+    "added_in": "1658142697936"
+  },
+  {
+    "org_id": "1a0ad67c-5bce-4f73-b59e-53b6930b4120",
+    "org_name": "New horizon LLP",
+    "headquater": "Japan",
+    "established_year": "1992",
+    "ceo": "Abhishek",
+    "added_in": "1658142697948"
+  },
+  {
+    "org_id": "8a45fbde-08c9-4911-8679-ae8831c7679e",
+    "org_name": "Connectwise LLP",
+    "headquater": "London",
+    "established_year": "2016",
+    "ceo": "Rohan",
+    "added_in": "1658142697959"
+  },
+  {
+    "org_id": "2e2c5591-a6e7-4ead-890f-5d20534f58fb",
+    "org_name": "Disha Techincal",
+    "headquater": "Kolkata",
+    "established_year": "1992",
+    "ceo": "Zarana",
+    "added_in": "1658142697971"
+  },
+  {
+    "org_id": "fa54fe0e-6267-4023-9e09-247bf9e33e3d",
+    "org_name": "Connectwise LLP",
+    "headquater": "Delhi",
+    "established_year": "1992",
+    "ceo": "Ryan",
+    "added_in": "1658142697982"
+  },
+  {
+    "org_id": "03582dd7-dbfb-487f-908a-eabac454faae",
+    "org_name": "Soni Enterprises",
+    "headquater": "Mumbai",
+    "established_year": "2018",
+    "ceo": "Dhiraj",
+    "added_in": "1658142697995"
+  },
+  {
+    "org_id": "a0cbd35f-7d63-4123-94fa-cc579cf017b6",
+    "org_name": "Infosys",
+    "headquater": "Japan",
+    "established_year": "2013",
+    "ceo": "Varun",
+    "added_in": "1658142698006"
+  },
+  {
+    "org_id": "dd36a022-6571-4e00-85dd-1c2a323afae3",
+    "org_name": "Connectwise LLP",
+    "headquater": "Kolkata",
+    "established_year": "1992",
+    "ceo": "Rohan",
+    "added_in": "1658142698018"
+  },
+  {
+    "org_id": "56f636bc-45b4-4d9f-99ca-496b22a6f20d",
+    "org_name": "MAQ Ltd.",
+    "headquater": "Hong-kong",
+    "established_year": "1992",
+    "ceo": "Dhiraj",
+    "added_in": "1658142698029"
+  },
+  {
+    "org_id": "7c888691-ed81-4e97-880b-868beaa6d36e",
+    "org_name": "Infosys",
+    "headquater": "Iran",
+    "established_year": "2012",
+    "ceo": "Ryan",
+    "added_in": "1658142698041"
+  },
+  {
+    "org_id": "36790a3d-1733-4b90-8a9b-cb993d32dc60",
+    "org_name": "Anand Technologies",
+    "headquater": "Mumbai",
+    "established_year": "2019",
+    "ceo": "Ryan",
+    "added_in": "1658142698053"
+  },
+  {
+    "org_id": "c94922be-aadf-4694-b6d4-414045f78b9a",
+    "org_name": "TCS",
+    "headquater": "Banglore",
+    "established_year": "2011",
+    "ceo": "Raj",
+    "added_in": "1658142698067"
+  },
+  {
+    "org_id": "30552936-b9b8-4e91-8228-a87f4f13de8c",
+    "org_name": "Google Inc",
+    "headquater": "Malasia",
+    "established_year": "1992",
+    "ceo": "Varun",
+    "added_in": "1658142698078"
+  },
+  {
+    "org_id": "58266ebc-5fb8-4ccd-a6ec-68a70f83a602",
+    "org_name": "TCS",
+    "headquater": "Mumbai",
+    "established_year": "2012",
+    "ceo": "Raj",
+    "added_in": "1658142698090"
+  },
+  {
+    "org_id": "a39c3205-6bd7-4883-9507-52a6aea236fd",
+    "org_name": "TCS",
+    "headquater": "Kolkata",
+    "established_year": "2015",
+    "ceo": "Ryan",
+    "added_in": "1658142698101"
+  },
+  {
+    "org_id": "07e4db58-f2b4-4614-a6cd-98a36c4a83e2",
+    "org_name": "New horizon LLP",
+    "headquater": "Chenai",
+    "established_year": "2011",
+    "ceo": "Rohan",
+    "added_in": "1658142698129"
+  }
+]

@@ -1,22 +1,15 @@
-const express = require('express')
-const router = express.Router()
+const express = require("express");
+const router = express.Router();
 
-//Organizaion controller to handle the request calls
-const deptCntr = require('../controllers/department.js')
+//controller handles the request
+const deptCntr = require("../controllers/department.js");
+const middleware = require('../middleware/department.js')
 
-//fetch all department
-router.get('/',deptCntr.getListOfDept)
+router
+  .get("/", deptCntr.getListOfDept)
+  .get("/:id", deptCntr.specificDept)
+  .post("/",middleware.validate, deptCntr.createDept)
+  .patch("/:id",middleware.validate, deptCntr.updateDept)
+  .delete("/:id", deptCntr.deleteDept);
 
-//fetch all specific department
-router.get('/:id',deptCntr.specificDept)
-
-//Create department
-router.post('/',deptCntr.createDept)
-
-//Update department
-router.patch('/:id',deptCntr.updateDept)
-
-//Delete department
-router.delete('/:id',deptCntr.deleteDept)
-
-module.exports = router
+module.exports = router;

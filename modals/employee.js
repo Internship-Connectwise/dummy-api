@@ -3,7 +3,7 @@ const mongoose= require('mongoose')
 let db=mongoose.connection.useDb('community')
 
 const employee=new mongoose.Schema({
-    empy_id : { type : String, required: true},
+    empy_id : { type : String, required: true, unique:true,immutable:true},
     org_id : { type : String, required: true},
     dept_id : { type : String, required: true},
     firstName : { type : String, required: true},

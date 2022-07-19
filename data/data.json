@@ -1,0 +1,38 @@
+[
+{
+    "org_id" : "abc@123" ,
+    "org_name" : "Abc",
+    "headquater" : "London",
+    "established_year" : "1987",
+    "ceo" :"rahul"
+},
+{
+    "dep_id" : "dept@124 ",
+    "org_id" :"abx@123 ",
+    "dept_name" : "marketing",
+    "manager" : "rahul",
+    "added_in_year" : "2022-07-12T07:43:41.190Z"
+},
+
+
+{
+    "dept_id" : "mark@123",
+    "ord_id" : " ",
+    "dept_name" : "marketing",
+    "manager" : "Rakesh"
+},
+
+{
+    "empy_id": "rah@123",
+    "org_id": "abc@123",
+    "dept_id": "eng@123",
+    "firstName": "Rahul",
+    "lastName": "Soni",
+    "age": 30,
+    "joining_date": null,
+    "position": "Engineer",
+    "salary": 20000,
+    "dob": "24 jan 1998",
+    "address": "alsaka street 40024"
+  }
+]

@@ -1,22 +1,16 @@
-const express = require('express')
-const router = express.Router()
+const express = require("express");
+const router = express.Router();
 
-//Organizaion controller to handle the request calls
-const empyCntr = require('../controllers/employee.js')
+//controller to handle the request calls
+const empyCntr = require("../controllers/employee.js");
+const middleware = require('../middleware/employee.js')
 
 //fetch all department
-router.get('/',empyCntr.getListOfEmpy)
+router
+  .get("/", empyCntr.getListOfEmpy)
+  .get("/:id", empyCntr.specificEmpy)
+  .post("/", middleware.validate,empyCntr.createEmpy)
+  .patch("/:id",middleware.validate, empyCntr.updateEmpy)
+  .delete("/:id", empyCntr.deleteEmpy);
 
-//fetch all specific department
-router.get('/:id',empyCntr.specificEmpy)
-
-//Create department
-router.post('/',empyCntr.createEmpy)
-
-//Update department
-router.patch('/:id',empyCntr.updateEmpy)
-
-//Delete department
-router.delete('/:id',empyCntr.deleteEmpy)
-
-module.exports = router
+module.exports = router;
