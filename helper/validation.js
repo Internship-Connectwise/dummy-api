@@ -11,5 +11,7 @@ const validation = (values,items) => {
         throw new Error(err);
     }
   };
+const atlasSearch = async(query)=>{
 
+}
   module.exports = validation

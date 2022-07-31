@@ -86,10 +86,161 @@ const deleteEmpy = async (req, res) => {
   console.log("delete Employee");
 };
 
+
+const searchEmpy = async(req,res)=>{
+  try{
+    const {firstName} = req.query
+    // const empy = await empyModel.aggregate([{
+    //   $match:{
+    //     "firstName":firstName,
+    //   }
+    // }])
+    const empy = await empyModel.find({firstName:firstName})
+    res.send(empy)
+  }catch(e){
+    res.send(e.message)
+  }
+}
+
+const regexSearch =  async (req,res)=>{
+  try{
+    const {firstName} = req.query
+    const empy = await empyModel.find({
+      "firstName" : {
+        $regex:firstName,
+        $options:"i"
+      }
+    })
+    res.send(empy)
+  }catch (e){
+    console.log(e)
+    res.send(e.message)
+  }
+}
+
+const atlasSearchEmpy = async(req,res)=>{
+  try{
+    const {firstName} = req.query
+    const empy = await empyModel.aggregate([{
+      "$search": {
+        "text": {
+          "query": firstName,
+          "path": "firstName"
+        }
+      }
+    }])
+    res.send(empy)
+  }catch(e){
+    res.send(e.message)
+  }
+}
+
+const atlasSearchEmpyDF = async(req,res)=>{
+  try{
+    const {firstName} = req.query
+    const empy = await empyModel.aggregate([{
+        '$search': {
+          'index': 'DF-false-single-param',
+          'text': {
+            'query': firstName,
+            "path":"firstName"
+          }
+        }
+      }
+    ])
+    res.send(empy)
+  }catch(e){
+    res.send(e.message)
+  }
+}
+
+
+//Search queries with multiple parameters
+
+const searchEmpyMP = async(req,res)=>{
+  try{
+    const {firstName,lastName} = req.query
+    // const empy = await empyModel.aggregate([{
+    //   $match:{
+    //     "firstName":firstName,
+    //   }
+    // }])
+    const empy = await empyModel.find({$or:[{firstName:firstName},{lastName:lastName}]})
+    res.send(empy)
+  }catch(e){
+    res.send(e.message)
+  }
+}
+
+const regexSearchMP =  async (req,res)=>{
+  try{
+    const {firstName,lastName} = req.query
+    const empy = await empyModel.find({
+      $or:[{
+        "firstName" : {
+          $regex:firstName
+        }},{
+        "lastName" : {
+          $regex:lastName
+        },
+      }]
+    })
+    res.send(empy)
+  }catch (e){
+    console.log(e)
+    res.send(e.message)
+  }
+}
+
+const atlasSearchEmpyMP = async(req,res)=>{
+  try{
+    const {firstName,lastName} = req.query
+    const empy = await empyModel.aggregate([{
+      "$search": {
+        "text": {
+          "query": [firstName,lastName],
+          "path": ["firstName","lastName"]
+        }
+      }
+    }])
+    res.send(empy)
+  }catch(e){
+    console.log(e)
+    res.send(e.message)
+  }
+}
+
+const atlasSearchEmpyDFMP = async(req,res)=>{
+  try{
+    const {firstName,lastName} = req.query
+    const empy = await empyModel.aggregate([{
+        '$search': {
+          'index': 'DM-true-multy-param',
+          "text": {
+            "query": [firstName,lastName],
+            "path": ["firstName","lastName"]
+          }
+        }
+      }
+    ])
+    res.send(empy)
+  }catch(e){
+    res.send(e.message)
+  }
+}
+
 module.exports = {
   getListOfEmpy,
   specificEmpy,
   createEmpy,
   updateEmpy,
   deleteEmpy,
+  searchEmpy,
+  regexSearch,
+  atlasSearchEmpy,
+  atlasSearchEmpyDF,
+  searchEmpyMP,
+  regexSearchMP,
+  atlasSearchEmpyMP,
+  atlasSearchEmpyDFMP
 };
