@@ -14,8 +14,14 @@ const employee=new mongoose.Schema({
     salary : { type : Number, required: true},
     dob : { type : String},
     address : { type : String},
+    searchTags : [String],
+    notes:[String],
+    exp : { type : String},
+    achievements : [String],
+    workLocation : [String],
+    ipAddress : { type : String}
 },{
-    collection:"employee" 
+    collection : "employee" 
 })
 
 const modal = db.model('employeeSchema',employee)

@@ -5,11 +5,11 @@ const router = express.Router();
 const empyCntr = require("../controllers/employee.js");
 const middleware = require("../middleware/employee.js");
 
-router
-.get("/searchEmpy", empyCntr.searchEmpy)
-  .get("/regexSearch", empyCntr.regexSearch)
-  .get("/atlasSearch", empyCntr.atlasSearchEmpy)
-  .get("/atlasSearchDf", empyCntr.atlasSearchEmpyDF)
+// router
+// .get("/searchEmpy", empyCntr.searchEmpy)
+//   .get("/regexSearch", empyCntr.regexSearch)
+//   .get("/atlasSearch", empyCntr.atlasSearchEmpy)
+//   .get("/atlasSearchDf", empyCntr.atlasSearchEmpyDF)
 
 router
   .get("/searchEmpyMP", empyCntr.searchEmpyMP)

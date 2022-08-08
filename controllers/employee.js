@@ -154,9 +154,7 @@ const atlasSearchEmpyDF = async(req,res)=>{
   }
 }
 
-
 //Search queries with multiple parameters
-
 const searchEmpyMP = async(req,res)=>{
   try{
     const {firstName,lastName} = req.query
@@ -176,14 +174,20 @@ const regexSearchMP =  async (req,res)=>{
   try{
     const {firstName,lastName} = req.query
     const empy = await empyModel.find({
-      $or:[{
-        "firstName" : {
-          $regex:firstName
-        }},{
-        "lastName" : {
-          $regex:lastName
+      $or:[
+        {
+          "firstName" : {
+            $regex:firstName,
+            $options:"i"
+          }
         },
-      }]
+        {
+          "lastName" : {
+            $regex:lastName,
+            $options:"i"
+          }
+        },
+      ]
     })
     res.send(empy)
   }catch (e){
